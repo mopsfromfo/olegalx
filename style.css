@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+   padding: 30px;
+    background-color: aqua;
+    border: 5px dashed black;
+}
+
+header img{
+    border: 5px double black;
+} 
